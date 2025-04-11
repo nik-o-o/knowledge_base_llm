@@ -4,10 +4,13 @@
 This is a private, offline RAG system for managing and querying personal documents locally using a combination of OpenSearch, Sentence Transformers, and Large Language Models (LLMs). Perfect for anyone seeking a privacy-friendly solution to manage documents without relying on cloud services.
 
 <br>
+
 ![Main Page](images/main_page.png)
 <br>
+
 ![Chatbot Page](images/chatbot.png)
 <br>
+
 ![Upload Documents Page](images/upload_documents.png)
 <br>
 
